@@ -11,11 +11,11 @@ Stay safe! ❤️
 
 ![DSC00203](https://github.com/user-attachments/assets/58c3ab62-1cac-4c37-82a2-b1e292efde69)
 
-#3D printing settings.
+# 3D printing settings.
 I used the prusament PLA settings on my Prusa core one L with a 0.4mm HS nozzle and Prusament PLA
 
-#Adding custom symbols:
+# Adding custom symbols:
 I used NIIMBOT B1 label printer with yellow termic paper. 
 
-#Magnets:
+# Magnets:
 I used 2 neoodymium magnets 12,54 x 3 x 2.4mm 
