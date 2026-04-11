@@ -1,9 +1,10 @@
-![EDITED_DSC00201](https://github.com/user-attachments/assets/41e2118a-300c-4904-8299-c1b641f8e788)
 
 # 3D model description:
 Remix of aerobatflyer Avatar MicroSD Card Wallet project 
 https://www.thingiverse.com/thing:4686863/files
 Thank you for such amazing project!
+
+![EDITED_DSC00201](https://github.com/user-attachments/assets/41e2118a-300c-4904-8299-c1b641f8e788)
 
 ⚠️ Disclaimer:
 I am not responsible for any harm caused while making or using this device/project. Use it at your own risk.
