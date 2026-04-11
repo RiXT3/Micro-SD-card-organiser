@@ -10,13 +10,12 @@ Thank you for such amazing project!
 I am not responsible for any harm caused while making or using this device/project. Use it at your own risk.
 Stay safe! ❤️
 
-![DSC00203](https://github.com/user-attachments/assets/58c3ab62-1cac-4c37-82a2-b1e292efde69)
-
 # 3D printing settings.
 I used the prusament PLA settings on my Prusa core one L with a 0.4mm HS nozzle 
 Filaments used:
 Prusament PLA Galaxy Black 
 Prusament PLA Lipstick Red 
+![DSC00203](https://github.com/user-attachments/assets/58c3ab62-1cac-4c37-82a2-b1e292efde69)
 
 # Adding custom symbols:
 I used NIIMBOT B1 label printer with yellow termic paper. 
