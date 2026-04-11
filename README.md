@@ -12,7 +12,10 @@ Stay safe! ❤️
 ![DSC00203](https://github.com/user-attachments/assets/58c3ab62-1cac-4c37-82a2-b1e292efde69)
 
 # 3D printing settings.
-I used the prusament PLA settings on my Prusa core one L with a 0.4mm HS nozzle and Prusament PLA
+I used the prusament PLA settings on my Prusa core one L with a 0.4mm HS nozzle 
+Filaments used:
+Prusament PLA Galaxy Black 
+Prusament PLA Lipstick Red 
 
 # Adding custom symbols:
 I used NIIMBOT B1 label printer with yellow termic paper. 
